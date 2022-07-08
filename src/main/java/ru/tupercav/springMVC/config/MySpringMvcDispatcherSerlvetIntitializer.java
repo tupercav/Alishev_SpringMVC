@@ -1,4 +1,4 @@
-package config;
+package ru.tupercav.springMVC.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
